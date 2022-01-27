@@ -74,3 +74,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Content/Audio/rain_processed.uasset
 Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
+Config/steamvr_ue_editor_app.json
