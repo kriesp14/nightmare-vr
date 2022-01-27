@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Audio/rain_processed.uasset
+Content/PN_interactiveSpruceForest/Textures/MasterTextures/ModelTextures/Bark_N.uasset
